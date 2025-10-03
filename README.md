@@ -47,5 +47,8 @@ The objective is to analyze ride patterns, cancellations, revenue impact, and cu
 ## Power BI visuals
 - <a href= "https://github.com/Vedant2331/Vedant-Ola-Bookings-Data/blob/main/Ola%20Data%20Analysis.pbix">Dashboard</a>
 ## Dashboard
+- <img width="1160" height="664" alt="Screenshot 2025-10-04 035826" src="https://github.com/user-attachments/assets/de597b3f-57ef-4f81-a933-19f11e55c149" />
+- <img width="1160" height="650" alt="Screenshot 2025-10-04 035848" src="https://github.com/user-attachments/assets/71949a06-1428-4c2c-8aed-13963c54e204" />
+- <img width="1160" height="659" alt="Screenshot 2025-10-04 035909" src="https://github.com/user-attachments/assets/da03c634-99ac-4641-837e-542c11905362" />
 
-  
+
